@@ -1,1 +1,2 @@
-# projmeth-course-assignment
+# Project Methodology Course Assignment
+## by Asbjørn Kallevik
